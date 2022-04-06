@@ -1,0 +1,11 @@
+{
+    "service": {
+        "port": 10003
+    },
+    "db": {
+        "host": "bojan.wq62m.mongodb.net",
+        "username": "bojan",
+        "password": "metalurgeshampion",
+        "dbname": "g19"
+    }
+}
